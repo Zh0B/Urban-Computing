@@ -40,9 +40,9 @@ These two datasets are merged via `ZipCode`.
 
 To test whether livability explains housing price:
 
-$$
-\text{MedianPrice} = \beta_0 + \beta_1 \cdot \text{LivabilityScore}
-$$
+
+$\text{MedianPrice} = \beta_0 + \beta_1 \cdot \text{LivabilityScore}$
+
 
 This is chosen because:
 - Interpretable  
@@ -54,7 +54,9 @@ This is chosen because:
 ## **2.2 Residual Definition**
 
 
-<p align="left">$$ \text{Residual} = \text{Actual Price} - \text{Predicted Price} $$</p>
+Residual is defined as:  
+$\text{Residual} = \text{Actual Price} - \text{Predicted Price}$
+
 
 
 
