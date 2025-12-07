@@ -53,9 +53,10 @@ This is chosen because:
 
 ## **2.2 Residual Definition**
 
-$$
-\text{Residual} = \text{Actual Price} - \text{Predicted Price}
-$$
+
+<p align="left">$$ \text{Residual} = \text{Actual Price} - \text{Predicted Price} $$</p>
+
+
 
 Interpretation:
 
